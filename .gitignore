@@ -1,0 +1,9 @@
+# Ignore edtor's backups 
+*~
+*\#
+
+# Ignore Gaussian preprocessing and exe
+*.f
+*.exe
+
+# Ignore run directories
